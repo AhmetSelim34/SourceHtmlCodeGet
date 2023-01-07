@@ -1,3 +1,3 @@
 # SourceHtmlCodeGet
 
-### Web siteleri kaynak Html kaynak kodlarını çekmek için kullanabilirsiniz
+### Web siteleri kaynak Html kodlarını çekmek için kullanabilirsiniz
